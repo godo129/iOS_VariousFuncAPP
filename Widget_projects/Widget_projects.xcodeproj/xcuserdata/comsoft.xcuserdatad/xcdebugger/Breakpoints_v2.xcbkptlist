@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6241B86-EE40-450F-90C4-43334D04D9A7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Widget_projects/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - a06e00185eaae4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.thirdFrame.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - 6f6ce8ded0ec30c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.thirdFrame.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - 1e130070269e7b00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.thirdFrame.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - 84cbefa67d437fc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.thirdFrame.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - 2063d60003aa36ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Widget_projects.HomeViewController"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "805">
+               </Location>
+               <Location
+                  uuid = "3DB4896D-CA44-4EC8-BC07-76D0984E7497 - 6207d52b8e18ee10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Widget_projects.HomeViewController&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "746">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Widget_projects/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - b217b4bf2dc9155f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.pointText.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - 630c4dbefdcb714b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.pointText.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - 4bfbd9c14f8d7c6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.pointText.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - 28d7ef44a1bbc791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.pointText.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - 2063d60003aa360e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Widget_projects.HomeViewController"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1047">
+               </Location>
+               <Location
+                  uuid = "3D496F76-5E6C-47DB-B7EB-9A321E8C3971 - 6207d52b8e18eef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Widget_projects.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Widget_projects.HomeViewController&gt;"
+                  moduleName = "Widget_projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/comsoft/Desktop/iOS_widget-main/Widget_projects/Widget_projects/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "988">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
